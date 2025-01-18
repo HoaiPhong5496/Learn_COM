@@ -1,0 +1,5 @@
+﻿  Precompiled.cpp
+  Server.cpp
+  Server.h
+Debug\Server.obj : warning LNK4042: object specified more than once; extras ignored
+  Server.vcxproj -> C:\Users\Administrator\Desktop\COM_TEST_PROJECT\ACTIVATION\Debug\Server.dll

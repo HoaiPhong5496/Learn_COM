@@ -1,4 +1,5 @@
 #include "Precompiled.h"
+#include "..\Server\Server.h"
 
 using namespace Microsoft::WRL;
 
@@ -36,6 +37,6 @@ struct ComRuntime
 
 int main()
 {
-	HRESULT result;
+
 }
 
